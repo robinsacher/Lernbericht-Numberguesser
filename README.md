@@ -7,7 +7,7 @@ In meinem Projekt habe ich einen Numberguesser programmiert, in dem der Benutzer
 
 ## Was habe ich gelernt?
 
-Ich habe gelernt wie man den Benutzer eine Zahl eingeben lässt und diese dann als Maximalzahl
+Ich habe gelernt wie man den Benutzer eine Zahl eingeben lässt und diese dann als Maximalzahl für die zufällig
 
 ## Beschreibung
 
